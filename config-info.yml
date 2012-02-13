@@ -1,0 +1,8 @@
+#Example configuration options that can be placed in your main SiriProxy config.yml
+
+##########################
+#NOTICE: Modifying these options in this file has no effect. You must put them in SiriProxy's config.yml!
+##########################
+    
+    - name: 'iPadsHouse'
+      git: 'git://github.com/ipadshouse/siri-proxy-ipadshouse-plugin.git'
